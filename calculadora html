@@ -2,7 +2,7 @@
 
 <div class="botoes">
 
-   </div class="numero"
+<div class="numero">
             <button>0</button>
             <button>1</button>
             <button>2</button>
@@ -15,10 +15,27 @@
             <button>9</button>
    </div> 
  
-    <div class="operação"
+    <div class="operação">
             <button>+</button>
             <button>-</button>
             <button>x</button>
             <button>=</button> 
-  </div>
-            
+    </div>
+</div>
+
+</html>
+
+<style>
+   .numero button{
+      background-color: aqua;
+      color: black;
+
+   }
+
+  .operacoes button{
+     background-color: aqua;
+     color: black;
+  }
+    
+</style>
+        
